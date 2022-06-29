@@ -9,7 +9,7 @@ public class controller {
 
 
 
-        @RequestMapping("/hello")
+        @RequestMapping("/hello maven")
         @ResponseBody
 
         // Method
